@@ -1,0 +1,19 @@
+.slick-prev, .slick-next {
+    background: #0e0e0e00;
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: #1b1a1a;
+    border: none;
+    background: #2b232300;
+    background: #9e9e9e;
+}
